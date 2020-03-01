@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c9b6f72-bb03-4685-b9dc-127f9e2ec35f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Maven Automations" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XZpOvN47YoPjNvbqUrwEfkpeRh" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/ActionItem" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tawab\Desktop\Maven AUtomations\src\test\java\Features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Reusable_library" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tawab\Desktop\Maven AUtomations\src\test\java\ActionItem" />
+      <recent name="C:\Users\tawab\Desktop\Maven AUtomations\src\main\resources" />
+      <recent name="C:\Users\tawab\Desktop\Maven AUtomations\src\test\java\Action Item" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.executableClass">
+    <configuration name="executableClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven Automations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StepDefinitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="MAIN_CLASS_NAME" value="Runner.executableClass" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven Automations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ActionItem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ActionItem" />
+      <option name="MAIN_CLASS_NAME" value="ActionItem.GoogleSearch" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="USPS" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven Automations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium12_02162020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium12_02162020" />
+      <option name="MAIN_CLASS_NAME" value="Selenium12_02162020.USPS" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_Signin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven Automations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium12_02162020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium12_02162020" />
+      <option name="MAIN_CLASS_NAME" value="Selenium12_02162020.Yahoo_Signin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Yahoo_Signin.Yahoo_Signin_Validation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Maven Automations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium12_02162020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium12_02162020" />
+      <option name="MAIN_CLASS_NAME" value="Selenium12_02162020.Yahoo_Signin" />
+      <option name="METHOD_NAME" value="Yahoo_Signin_Validation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.executableClass" />
+        <item itemvalue="TestNG.GoogleSearch" />
+        <item itemvalue="TestNG.Yahoo_Signin.Yahoo_Signin_Validation" />
+        <item itemvalue="TestNG.Yahoo_Signin" />
+        <item itemvalue="TestNG.USPS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c9b6f72-bb03-4685-b9dc-127f9e2ec35f" name="Default Changelist" comment="" />
+      <created>1581263442978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581263442978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Notifications" timestamp="1581704531712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1581704531712" />
+    <state x="513" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582474223904">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582474223904" />
+    <state x="429" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582999704818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="429" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1582999704818" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1581269097413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581269097413" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582483542755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582483542755" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582483542755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582483542755" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582483542755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582483542755" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582483542755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582483542755" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581781619620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581781619620" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1581781619620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581781619620" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1581781619620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581781619620" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1581781619620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581781619620" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1582475287088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582475287088" />
+    <state x="477" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1582389127028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="48" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1582389127028" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1581633255950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581633255950" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1581263665986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581263665986" />
+  </component>
+</project>
